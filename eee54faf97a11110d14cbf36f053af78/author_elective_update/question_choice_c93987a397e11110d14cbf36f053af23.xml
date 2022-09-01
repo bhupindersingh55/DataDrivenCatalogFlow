@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref display_value="Azure AQL">f0588fef97a11110d14cbf36f053af5c</published_ref>
+        <question display_value="Which database do you need access to?">7c3987a397e11110d14cbf36f053af09</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 17:06:12</sys_created_on>
+        <sys_id>c93987a397e11110d14cbf36f053af23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Azure AQL</sys_name>
+        <sys_package display_value="Data Driven Catalog Flow" source="x_842639_data_dr_0">eee54faf97a11110d14cbf36f053af78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Driven Catalog Flow">eee54faf97a11110d14cbf36f053af78</sys_scope>
+        <sys_update_name>question_choice_c93987a397e11110d14cbf36f053af23</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-01 17:06:12</sys_updated_on>
+        <text>Azure AQL</text>
+        <value>azure</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=c93987a397e11110d14cbf36f053af23"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Driven Catalog Flow">eee54faf97a11110d14cbf36f053af78</application>
+        <file_path/>
+        <instance_id>c00bff2ddbfbe410601a11f848961935</instance_id>
+        <instance_name>dev112676</instance_name>
+        <name>question_choice_c93987a397e11110d14cbf36f053af23</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>300</order><published_ref display_value="Azure AQL">f0588fef97a11110d14cbf36f053af5c</published_ref><question display_value="Which database do you need access to?">7c3987a397e11110d14cbf36f053af09</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-01 17:06:12</sys_created_on><sys_id>c93987a397e11110d14cbf36f053af23</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Azure AQL</sys_name><sys_package display_value="Data Driven Catalog Flow" source="x_842639_data_dr_0">eee54faf97a11110d14cbf36f053af78</sys_package><sys_policy/><sys_scope display_value="Data Driven Catalog Flow">eee54faf97a11110d14cbf36f053af78</sys_scope><sys_update_name>question_choice_c93987a397e11110d14cbf36f053af23</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-01 17:06:12</sys_updated_on><text>Azure AQL</text><value>azure</value></question_choice><fx_price action="delete_multiple" query="id=c93987a397e11110d14cbf36f053af23"/></record_update>]]></payload>
+        <payload_hash>616614925</payload_hash>
+        <record_name>Azure AQL</record_name>
+        <reverted_from/>
+        <source>7c960bef97a11110d14cbf36f053afa4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 17:06:12</sys_created_on>
+        <sys_id>4d3987a397e11110d14cbf36f053af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182fa0475240000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-01 17:06:12</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>c13987a3a9e111100f7f4c7738b95825</update_guid>
+        <update_guid_history>c13987a3a9e111100f7f4c7738b95825:616614925</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Azure AQL">74ba532797251110d14cbf36f053af92</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-01 18:22:39</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>9192a7c0b0934e059de0437c0073b349</sys_id>
+        <sys_metadata>c93987a397e11110d14cbf36f053af23</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Azure AQL</sys_name>
+        <sys_package display_value="Data Driven Catalog Flow" source="x_842639_data_dr_0">eee54faf97a11110d14cbf36f053af78</sys_package>
+        <sys_parent display_value="">7c3987a397e11110d14cbf36f053af09</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Data Driven Catalog Flow">eee54faf97a11110d14cbf36f053af78</sys_scope>
+        <sys_scope_delete display_value="">ac934195e77d494894bde7b072db6410</sys_scope_delete>
+        <sys_update_name>question_choice_c93987a397e11110d14cbf36f053af23</sys_update_name>
+        <sys_update_version display_value="question_choice_c93987a397e11110d14cbf36f053af23">4d3987a397e11110d14cbf36f053af25</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-01 18:22:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
