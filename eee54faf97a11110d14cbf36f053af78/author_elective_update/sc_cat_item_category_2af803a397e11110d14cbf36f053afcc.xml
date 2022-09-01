@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Database Access">62964bef97a11110d14cbf36f053af05</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 17:05:13</sys_created_on>
+        <sys_id>2af803a397e11110d14cbf36f053afcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Database Access</sys_name>
+        <sys_package display_value="Data Driven Catalog Flow" source="x_842639_data_dr_0">eee54faf97a11110d14cbf36f053af78</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Driven Catalog Flow">eee54faf97a11110d14cbf36f053af78</sys_scope>
+        <sys_update_name>sc_cat_item_category_2af803a397e11110d14cbf36f053afcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-01 17:05:13</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Driven Catalog Flow">eee54faf97a11110d14cbf36f053af78</application>
+        <file_path/>
+        <instance_id>c00bff2ddbfbe410601a11f848961935</instance_id>
+        <instance_name>dev112676</instance_name>
+        <name>sc_cat_item_category_2af803a397e11110d14cbf36f053afcc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Database Access">62964bef97a11110d14cbf36f053af05</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-01 17:05:13</sys_created_on><sys_id>2af803a397e11110d14cbf36f053afcc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Database Access</sys_name><sys_package display_value="Data Driven Catalog Flow" source="x_842639_data_dr_0">eee54faf97a11110d14cbf36f053af78</sys_package><sys_policy/><sys_scope display_value="Data Driven Catalog Flow">eee54faf97a11110d14cbf36f053af78</sys_scope><sys_update_name>sc_cat_item_category_2af803a397e11110d14cbf36f053afcc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-01 17:05:13</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>76894485</payload_hash>
+        <record_name>Can We Help You?.Database Access</record_name>
+        <reverted_from/>
+        <source>7c960bef97a11110d14cbf36f053afa4</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 17:05:13</sys_created_on>
+        <sys_id>2af803a397e11110d14cbf36f053afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182fa038da90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-01 17:05:13</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>aef803a3e9e11110de4d42d4423f39db</update_guid>
+        <update_guid_history>aef803a3e9e11110de4d42d4423f39db:76894485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Database Access">d0ba132797251110d14cbf36f053affc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-01 18:22:37</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>37bf7ca94573420191b19a6509f0c581</sys_id>
+        <sys_metadata>2af803a397e11110d14cbf36f053afcc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Database Access</sys_name>
+        <sys_package display_value="Data Driven Catalog Flow" source="x_842639_data_dr_0">eee54faf97a11110d14cbf36f053af78</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Driven Catalog Flow">eee54faf97a11110d14cbf36f053af78</sys_scope>
+        <sys_scope_delete display_value="">ac934195e77d494894bde7b072db6410</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_2af803a397e11110d14cbf36f053afcc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_2af803a397e11110d14cbf36f053afcc">2af803a397e11110d14cbf36f053afdc</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-01 18:22:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
